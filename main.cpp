@@ -1,6 +1,6 @@
-
+#include <iostream>
 using namespace std;
-int public void main(){
-  cout << "first"
+int main(){
+  cout << "hello" << endl;
   return 0;
 }
