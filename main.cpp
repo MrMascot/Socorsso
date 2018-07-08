@@ -1,6 +1,6 @@
 
 using namespace std;
 int public void main(){
-  cout << "Fist tight holes only"
+  cout << "first"
   return 0;
 }
